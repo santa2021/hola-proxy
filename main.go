@@ -5,8 +5,6 @@ import (
     "os"
     "fmt"
     "flag"
-//    "os/signal"
-//    "syscall"
     "time"
     "net/http"
 )
